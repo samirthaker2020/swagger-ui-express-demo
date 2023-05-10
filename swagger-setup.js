@@ -3,8 +3,8 @@
  */
 const swaggerDefinition = {
   info: {
-    title: "API REST de exemplo de uso do Swagger em Node.js",
-    description: "Mostra como configurar uma aplicação Node.js com expressjs, swagger-ui-express para geração da Swagger UI e swagger-jsdoc para especificar os endpoints implementados com expressjs por meio de comentários JSDoc."
+    title: "API REST API sample Swagger Node.js",
+    description: "This is demo API's for the customers"
   },
   servers: ["http://localhost:8080"]
 }
