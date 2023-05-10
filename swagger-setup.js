@@ -3,7 +3,7 @@
  */
 const swaggerDefinition = {
   info: {
-    title: "API REST API sample Swagger Node.js",
+    title: "REST API sample Swagger",
     description: "This is demo API's for the customers"
   },
   servers: ["http://localhost:8080"]
