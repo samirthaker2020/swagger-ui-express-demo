@@ -10,5 +10,5 @@ const porta = process.env.PORT || 8080;
 require('./swagger-setup')(app);
 
 app.listen(porta, () => {
-  console.log('Servidor iniciado. Abra o navegador em http://localhost:' + porta);
+  console.log('Hello, Welcome to samir AWS Server');
 });
